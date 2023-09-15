@@ -1,0 +1,14 @@
+*.csv
+*.pt
+*.avi
+*.zip
+*.mp4
+*.yaml
+.ipynb_checkpoints
+runs
+datasets
+inputs
+train_labels
+train_images
+temp
+04_object_detection_with_semantic_segmentation
